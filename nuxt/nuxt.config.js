@@ -1,7 +1,10 @@
+// eslint-disable-next-line
+require('dotenv').config();
 
 export default {
   mode: 'universal',
   env: {
+    LAMBDA_URL: process.env.LAMBDA_URL
   },
   /*
   ** Headers of the page

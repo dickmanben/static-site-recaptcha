@@ -234,9 +234,9 @@ How you want to handle this score is up to you.  For me I will handle the form i
 
 ## Overview
 
-As you can see, this is pretty simple to set up and does not require a lot of additional work.  For a working demo check out: 
+As you can see, this is pretty simple to set up and does not require a lot of additional work.  For a working demo check out: https://recaptcha-demo.guanaco.dev/
 
-**Setup a demo site**
+This demo site is setup using the NuxtJS code found in the [respositroy](https://github.com/dickmanben/static-site-recaptcha) and is stored in AWS S3 and served using AWS Cloudfront.
 
 I hope this helps!  If you have any questions or suggestions keep them to yourself! Or leave them in the comments below. 
 
